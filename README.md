@@ -1,2 +1,3 @@
 # linear_regression_from_scratch
-linear regression from scratch in python
+
+This is a simple implementation of the linear regression from scratch in python. 
